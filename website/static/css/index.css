@@ -1,0 +1,24 @@
+html, body { height: 100%; }
+
+html{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.top{
+  margin: auto;
+  width: 100%;
+  height:10%;
+}
+
+.mid{
+  margin: auto;
+  width: 100%;
+  height:75%;
+}
+
+.bot{
+  margin: auto;
+  width: 100%;
+  height:15%;
+}
